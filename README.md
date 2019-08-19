@@ -6,3 +6,4 @@ Jupyter Notebooks are very versatile in the support of coding of physicst proble
 List of the available notebooks:
 1. Introduction to Jupyter Notebooks
 2. Complex Number Gymnastics
+3. Non-linear fit example
