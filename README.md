@@ -7,3 +7,4 @@ List of the available notebooks:
 1. Introduction to Jupyter Notebooks
 2. Complex Number Gymnastics
 3. Non-linear fit example
+4. Function-fit notebook with prompt for data file
