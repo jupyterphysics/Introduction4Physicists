@@ -8,3 +8,4 @@ List of the available notebooks:
 2. Complex Number Gymnastics
 3. Non-linear fit example
 4. Function-fit notebook with prompt for data file
+5. Complex number gymnastics: a notebook to train yourself with complex numbers.
